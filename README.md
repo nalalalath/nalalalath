@@ -1,15 +1,17 @@
-## Hi there 👋
+## uai so 🤠
 
-<!--
-**nalalalath/nalalalath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é nathalia eu sou legal e linda 
 
-Here are some ideas to get you started:
+- estou cansada da escola
+- estou me desenvolvendo na linguagem JavaScript (as vezes)
+- estou cansada do alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### voce nao precisa entar em contato comigo, mas caso queira fale por 📫
+
+natoliveirab25@gmail.com
+
+### instagram
+
+@nathhvz
+
+![_](https://media1.tenor.com/m/4TvrvXOULV4AAAAC/taeyong-nct-127.gif)
