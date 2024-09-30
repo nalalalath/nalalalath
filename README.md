@@ -6,7 +6,7 @@ meu nome é nathalia eu sou legal e linda
 - estou me desenvolvendo na linguagem JavaScript (as vezes)
 - estou cansada do alura
 
-### voce nao precisa entar em contato comigo, mas caso queira fale por 📫
+### voce nao precisa entrar em contato comigo, mas caso queira fale por 📫
 
 natoliveirab25@gmail.com
 
